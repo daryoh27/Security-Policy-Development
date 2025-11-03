@@ -3,7 +3,7 @@
 ## Author: Dada Ojuko
 ## Date: October 2025
 ## Category: Information Security | Policy Development
-## Comapny name: DamaniTech
+## Company name: DamaniTech
 
 ## Overview
 This repository is a Security Policy development that focuses on the development, customization, and implementation of cybersecurity security policies designed to enhance organizational resilience, compliance, and data protection.
